@@ -1,4 +1,4 @@
-# RISCV Heritage
+# RISCV TEARIT
 
 The following website is a course project under the guidance of [Dr T.V Kalyan](https://sites.google.com/view/kalyantv). It is a web simulator which converts the `Assembly code` written `RISCV syntax` to `Machine code` and provides a user-friendly environment for its execution. The simulator implements pipelining, branch prediction and data forwarding, which can be enabled or disabled by the user. 
 
